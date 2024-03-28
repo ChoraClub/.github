@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ChoraClub/.github/blob/main/ChoraClub_Cover.png" alt="Chora Club Logo" width="400">
+  <img src="https://github.com/ChoraClub/.github/blob/main/images/ChoraClub_Cover.png" alt="Chora Club Logo" width="400">
 </div>
 
 # 🌐 Chora Club
