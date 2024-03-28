@@ -20,6 +20,8 @@ Our mission is to connect users with experienced Delegates, offer personalized l
 
 Joining Chora Club as a user is easy! Simply **🔗[click here](https://chora.club)**, and start your Web3 journey.
 
+For additional resources and updates, check out our [mirror website](https://mirror.xyz/0x30d644CBf785167D8CaBcB35602959E19D9004Db).
+
 ## 📱 Social Media
 
 Connect with us on social media for updates and announcements:
@@ -37,4 +39,5 @@ Connect with us on social media for updates and announcements:
     <img src="https://github.com/ChoraClub/.github/blob/main/images/telegram.png?raw=true" alt="Telegram" width="35" height="35" style="margin-right: 20px; cursor: pointer;" />
   </a>
 </p>
+
 
