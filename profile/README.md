@@ -20,6 +20,6 @@ Joining Chora Club as a user is easy! Simply **🔗[click here](https://chora.cl
 
 Connect with us on social media for updates and announcements:
 
-[<img src="https://github.com/ChoraClub/ChoraClub/blob/main/images/discord.png?raw=true" width="35" height="35">](https://discord.gg/mFyeq34cGM)
-[<img src="https://github.com/ChoraClub/ChoraClub/blob/main/images/twitter.png?raw=true" width="35" height="35">](https://twitter.com/ChoraClub)
-[<img src="https://github.com/ChoraClub/ChoraClub/blob/main/images/telegram.png?raw=true" width="35" height="35">](https://t.me/choraclub)
+[<img src="https://github.com/ChoraClub/.github/blob/main/images/discord.png?raw=true" width="35" height="35">](https://discord.gg/mFyeq34cGM)
+[<img src="https://github.com/ChoraClub/.github/blob/main/images/twitter.png?raw=true" width="35" height="35">](https://twitter.com/ChoraClub)
+[<img src="https://github.com/ChoraClub/.github/blob/main/images/telegram.png?raw=true" width="35" height="35">](https://t.me/choraclub)
