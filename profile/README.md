@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/ChoraClub/.github/blob/main/images/ChoraClub_Cover.png" alt="Chora Club Logo" width="400">
+  <img  src="https://github.com/ChoraClub/.github/blob/main/images/ChoraClub_Cover.png" alt="Chora Club Logo" width="400">
 </div>
 
-# 🌐 Chora Club
+# 🌐 Welcome to Chora Club!
 
 Chora Club is a platform designed to facilitate the swift integration of new users into the Web3 ecosystem. 🚀
 
