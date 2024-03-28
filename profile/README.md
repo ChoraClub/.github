@@ -20,6 +20,17 @@ Joining Chora Club as a user is easy! Simply **🔗[click here](https://chora.cl
 
 Connect with us on social media for updates and announcements:
 
-[<img src="https://github.com/ChoraClub/.github/blob/main/images/discord.png?raw=true" width="35" height="35">](https://discord.gg/mFyeq34cGM)
-[<img src="https://github.com/ChoraClub/.github/blob/main/images/twitter.png?raw=true" width="35" height="35">](https://twitter.com/ChoraClub)
-[<img src="https://github.com/ChoraClub/.github/blob/main/images/telegram.png?raw=true" width="35" height="35">](https://t.me/choraclub)
+<p align="left">
+  <a href="https://discord.gg/mFyeq34cGM" target="_blank" title="Discord">
+    <img src="https://github.com/ChoraClub/.github/blob/main/images/discord.png?raw=true" alt="Discord" width="35" height="35" style="margin-right: 20px; cursor: pointer;" />
+  </a>
+  
+  <a href="https://twitter.com/ChoraClub" target="_blank" title="X (Formerly Twitter)">
+    <img src="https://github.com/ChoraClub/.github/blob/main/images/x.png?raw=true" alt="Twitter" width="35" height="35" style="margin-right: 20px; cursor: pointer;" />
+  </a>
+  
+  <a href="https://t.me/choraclub" target="_blank" title="Telegram">
+    <img src="https://github.com/ChoraClub/.github/blob/main/images/telegram.png?raw=true" alt="Telegram" width="35" height="35" style="margin-right: 20px; cursor: pointer;" />
+  </a>
+</p>
+
