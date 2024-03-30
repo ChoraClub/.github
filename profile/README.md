@@ -16,7 +16,17 @@ Our mission is to connect users with experienced Delegates, offer personalized l
 - 📚 **Personalized Learning Sessions**: Tailored sessions to help you learn and understand Web3 technologies.
 - 🌐 **Explore and Engage with DAOs**: Discover and engage with various Decentralized Autonomous Organizations.
 
-## 🛠 Getting Started
+## 🛠 Key Tools and Technologies
+
+- ### Huddle01
+  - Huddle01 is a decentralized video conferencing platform that enables users to communicate and collaborate in real-time.
+  - It offers secure, private, and scalable video conferencing solutions, making it an ideal choice for hosting sessions and office hours on Chora Club.
+
+- ### Ethereum Attestations Service (EAS)
+  - The Ethereum Attestations Service is a decentralized identity verification platform that allows users to create and manage digital attestations on the Ethereum blockchain.
+  - Chora Club utilizes this service to issue attestations to users who have completed sessions or office hours, providing them with verifiable proof of their participation and achievements.
+    
+## 💻 Getting Started
 
 Joining Chora Club as a user is easy! Simply **🔗[click here](https://chora.club)**, and start your Web3 journey.
 
